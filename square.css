@@ -3,6 +3,7 @@
 }
 .square {
     background-color: LightGray;
+    cursor: move;
 }
 .overlap-square {
     position: absolute;
