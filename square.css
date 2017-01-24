@@ -1,0 +1,10 @@
+.playground {
+    position: relative;
+}
+.square {
+    background-color: LightGray;
+}
+.overlap-square {
+    position: absolute;
+    background-color: green;
+}
